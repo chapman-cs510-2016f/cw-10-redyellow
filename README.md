@@ -1,8 +1,8 @@
 # CS510 CW 10
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** _Nengyin Zhu, Kaiqin Huang_
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-10-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-10-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2016f/cw-10-redyellow.svg?branch=master)](https://travis-ci.org/chapman-cs510-2016f/cw-10-redyellow)
 
 **Due date:** 2016/11/08
 
@@ -53,4 +53,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+**Nengyin Zhu, Kaiqin Huang**
