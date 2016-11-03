@@ -42,7 +42,7 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+**I learned how to create a function, and transfer memory address, array to the function. Besides, how to the memory allocation and recyle is important. And "pass with value" and "pass with reference" help me learn more about the memory and pointer. Struct is also good to define our own type.**
 
 ## Honor Pledge
 
