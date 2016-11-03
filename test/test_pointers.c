@@ -40,6 +40,13 @@ static char * test_pass_by_value() {
     mu_assert("error, v.y != 0.0", is_equal(v.y, y));
     mu_assert("error, v.z != 0.0", is_equal(v.z, z));
     mu_assert("error, w.x != 15.0", is_equal(w.x, 15.0)); 
+
+	//the "pass by reference", which change the value of the address of r directly.
+	VEC2 r = {x, y};
+	setVec2(&r, 6.0, 8.0);
+	mu_assert("error, r.x != 6.0", is_equal(r.x, 6.0));
+	mu_assert("error, r.y != 8.0", is_equal(r.y, 8.0));
+
     return 0;
 }
 
