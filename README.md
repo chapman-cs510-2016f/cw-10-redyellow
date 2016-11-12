@@ -40,9 +40,15 @@ Complete the following exercises, saving your solutions in the indicated files.
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
+Helen Nengyin:
 
-**I learned how to create a function, and transfer memory address, array to the function. Besides, how to the memory allocation and recyle is important. And "pass with value" and "pass with reference" help me learn more about the memory and pointer. Struct is also good to define our own type.**
+I learned how to create a function, and transfer memory address, array to the function. Besides, how to do the memory allocation and recycle is important. And "pass by value" and "pass by reference" help me learn more about the memory and pointer. Struct is a good way to define our own type.
+
+Kaiqin:
+
+1. I have got better understanding on data types;
+2. Pointer makes much more sense to me now.  Have become more familiar with both how it works and how to use it.  Although still need much more practice to make friends with it...
+3. Still need more practice on how to define a structure, how to define a function and how to call it in main.  Should be extra cautious about where to define the types of inputs and outputs.
 
 ## Honor Pledge
 
