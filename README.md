@@ -49,6 +49,7 @@ Kaiqin:
 1. I have got better understanding on data types;
 2. Pointer makes much more sense to me now.  Have become more familiar with both how it works and how to use it.  Although still need much more practice to make friends with it...
 3. Still need more practice on how to define a structure, how to define a function and how to call it in main.  Should be extra cautious about where to define the types of inputs and outputs.
+4. Note: It is annoying to type * in Jupyter Markdown since it means italic by default.  So I used (star) in most cases.
 
 ## Honor Pledge
 
