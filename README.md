@@ -50,6 +50,10 @@ Kaiqin:
 2. Pointer makes much more sense to me now.  Have become more familiar with both how it works and how to use it.  Although still need much more practice to make friends with it...
 3. Still need more practice on how to define a structure, how to define a function and how to call it in main.  Should be extra cautious about where to define the types of inputs and outputs.
 
+**Instructor comment:**
+
+Excellent work!
+
 ## Honor Pledge
 
 I pledge that all the work in this repository is my own with only the following exceptions:
